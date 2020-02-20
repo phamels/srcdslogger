@@ -1,0 +1,20 @@
+{
+  "Port": 27500,
+  "ApiPort": 3000,
+  "ListenIp": "127.0.0.1",
+  "DbHost": "127.0.0.1",
+  "DbPort": 3306,
+  "DbUser": "root",
+  "DbPass": "",
+  "DbName": "srcdslogger",
+
+  "Points": {
+    "Kill": 4,
+    "Death": -2,
+    "BombPlanted":  6,
+    "BombDefused": 6,
+    "RoundWin": 4,
+    "RoundLose": -2,
+    "Hit": 1
+  }
+}
